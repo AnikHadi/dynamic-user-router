@@ -1,0 +1,11 @@
+.user-child{
+    position: relative;
+    box-sizing: border-box;
+}
+.user-name{
+    height: 10rem;
+}
+.user-details-btn{
+    position: absolute;
+    bottom: 0;
+}
